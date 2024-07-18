@@ -1,5 +1,5 @@
 
-const socket = io.connect("http://127.0.0.1:5500");
+const socket = io.connect("https://realtime-whiteboard-u4iw.onrender.com/");
 
 const board = document.querySelector(".board");
 board.height = window.innerHeight;
