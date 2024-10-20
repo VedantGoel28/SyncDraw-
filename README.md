@@ -1,4 +1,4 @@
-# Real-time Whiteboard
+# SyncDraw 
 
 ### A feature-rich, real-time whiteboard application developed using Vanilla JavaScript, HTML, and CSS. This project allows multiple users to collaborate in real-time, making it perfect for team brainstorming sessions, online teaching, or creative collaborations.
 
