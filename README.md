@@ -24,7 +24,7 @@ Manual Testing: Open multiple browser tabs and test real-time synchronization.
 ### 🎨 UI/UX Design
 The whiteboard interface is designed with simplicity and efficiency in mind, ensuring an intuitive user experience. The layout adapts to different screen sizes, making it accessible on both desktop and mobile devices.
 
-![Screenshot 2024-08-23 125211](https://github.com/user-attachments/assets/24db6367-6688-43a2-8c17-7223a1696f15)
+![Screenshot 2025-01-16 152603](https://github.com/user-attachments/assets/137548ae-fba1-4081-9a77-88f9f74e2324)
 
 
 ### 🌍 Contributions
